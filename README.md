@@ -6,23 +6,31 @@ AI-driven post-disaster management system leveraging IR-UWB radar for detecting 
 📂 Repository Contents
 
 🔹 📜 Thesis – Full research document
+
 🔹 📊 Presentation – Summary of findings
+
 🔹 💻 Final Code – AI/ML model for motion classification
 
 🎯 Key Highlights
 
 
 ✅ Uses AI & ML for earthquake rescue
+
 ✅ CNN-based classification with 97% accuracy
+
 ✅ Non-invasive IR-UWB radar for motion detection
+
 ✅ Promotes open-access datasets for future research
 
 🚀 How It Works
 
 
 1️⃣ Pre-process IR-UWB radar data
+
 2️⃣ Feature extraction from time-domain signals
+
 3️⃣ CNN model classifies motion: Walking, Standing, Empty
+
 4️⃣ Deploy AI-driven disaster response system
 
 🖥️ Code Usage
